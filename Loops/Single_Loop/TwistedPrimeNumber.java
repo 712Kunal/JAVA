@@ -1,3 +1,4 @@
+package Single_Loop;
 
 class TwistedPrimeNumber {
     public static void main(String[] args) {
