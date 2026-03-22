@@ -1,4 +1,4 @@
-# Java Projects Repository
+# Java Codes Repository
 
 Welcome to my **Java Codes Repository**! This repository contains a collection of Java programs and projects, ranging from basic programming exercises to data structures, algorithms, and more advanced applications. It is a showcase of my learning, practice, and problem-solving skills in Java.
 
