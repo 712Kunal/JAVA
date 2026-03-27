@@ -1,5 +1,5 @@
 
-class IsLeapYearOrNot {
+class IsLeapYearOrNotInRange {
     public static void main(String[] args) {
         int start = 1000;
 
