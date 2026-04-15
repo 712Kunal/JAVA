@@ -1,5 +1,3 @@
-package Single_Loop;
-
 import java.util.Scanner;
 
 class XylemAndPhloem {
@@ -8,6 +6,11 @@ class XylemAndPhloem {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number: ");
         int num = sc.nextInt();
+
+        if (num < 10) {
+            System.out.println("It's a Xylem number");
+            return;
+        }
 
         int endSum = num % 10;
         num /= 10;

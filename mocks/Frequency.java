@@ -1,6 +1,6 @@
 class Frequency {
     public static void frequencyDgts(int num) {
-        for (int i = 1; i <= 9; i++) {
+        for (int i = 0; i <= 9; i++) {
             int cnt = 0;
             int j = num;
 
