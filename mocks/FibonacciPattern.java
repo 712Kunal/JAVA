@@ -31,9 +31,9 @@ public class FibonacciPattern {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 if (j < i) {
-                    System.out.print(" " + " ");
+                    System.out.print("\t");
                 } else {
-                    System.out.print(nthFibo(total) + " ");
+                    System.out.print(nthFibo(total) + "\t");
                     total--;
                 }
             }
